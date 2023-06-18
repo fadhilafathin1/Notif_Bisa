@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qQ0SOWhP9Bv+g0JuZuo2+89bskV32PSKvXAkb+4klw36ygipn0Y9daua3V9D3A4BrZBVebXx0T9WTYqUUErr8Q==",
+  "success": true,
+  "projectFilePath": "D:\\SEMESTER 2\\notif\\PemberitahuanKonfirmasi\\PemberitahuanKonfirmasi\\PemberitahuanKonfirmasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

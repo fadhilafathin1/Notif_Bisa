@@ -1,0 +1,50 @@
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\PemberitahuanKonfirmasi.exe
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\PemberitahuanKonfirmasi.deps.json
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\PemberitahuanKonfirmasi.runtimeconfig.json
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\PemberitahuanKonfirmasi.dll
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\PemberitahuanKonfirmasi.pdb
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\Npgsql.dll
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.csproj.AssemblyReference.cache
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.Form1.resources
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.csproj.GenerateResource.cache
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.AssemblyInfoInputs.cache
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.AssemblyInfo.cs
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.csproj.CoreCompileInputs.cache
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.csproj.CopyComplete
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.dll
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\refint\PemberitahuanKonfirmasi.dll
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.pdb
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.genruntimeconfig.cache
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\ref\PemberitahuanKonfirmasi.dll
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.Form2.resources
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.inputuser.resources
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\System.Management.dll
+D:\Kul\S2\PBO\Tugas\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\PemberitahuanKonfirmasi.exe
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\PemberitahuanKonfirmasi.deps.json
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\PemberitahuanKonfirmasi.runtimeconfig.json
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\PemberitahuanKonfirmasi.dll
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\PemberitahuanKonfirmasi.pdb
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\Npgsql.dll
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\System.Management.dll
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.csproj.AssemblyReference.cache
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.Form1.resources
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.Form2.resources
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.inputuser.resources
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.csproj.GenerateResource.cache
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.AssemblyInfoInputs.cache
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.AssemblyInfo.cs
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.csproj.CoreCompileInputs.cache
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.csproj.CopyComplete
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.dll
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\refint\PemberitahuanKonfirmasi.dll
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.pdb
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\PemberitahuanKonfirmasi.genruntimeconfig.cache
+D:\SEMESTER 2\notif\PemberitahuanKonfirmasi\PemberitahuanKonfirmasi\obj\Debug\net6.0-windows\ref\PemberitahuanKonfirmasi.dll
